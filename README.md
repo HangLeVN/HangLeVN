@@ -1,8 +1,8 @@
 👋 Hi, I’m Hang Le, in Hanoi, Vietnam
 
-👩 I have six years working as a Forex Trader before running a fashion store for four years. My store had closed due to Covid-19. 
+👩 I have six years working as a Forex Trader before running a fashion store for four years. Unfortunately, my store had closed due to Covid-19. 
 
-👀 As my interest in statistics and analyzing data for further insights, I’m interested in making a transition to Data Career
+👀 As my interest in working with numbers and solving issues using an analytical approach, I have made up my mind about pursuing a career in data science. I fully understand it would be such a long rooad but I dare to step day by day.
 
 🤞 I have finished:
 - 3-month Data Analyst course at hocdataonline.com (Aug 2021) 
