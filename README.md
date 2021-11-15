@@ -10,7 +10,7 @@
 - Several Udemy courses cover [basic SQL](https://www.udemy.com/certificate/UC-a23a9721-bcb7-4da7-b313-c8ec4044afdb/), Python skills
 
 🌱 I’m currently: 
-- Preparing to take DA-100 certificate
+- Preparing to take DA-100 certificate - Passed on November 09,2021
 - Continuing to finish Google Data Analytics Professional Certificate at Coursera
 - Practicing SQL skills on HackerRank
 - Practicing Python skills by building some projects using Python library to explore and explain data
